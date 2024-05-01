@@ -49,10 +49,10 @@ export default {
       tipoffsetY:0,
       tipoffsetX:0,
       show_lock_tip:false,
-      input_src:"https://www.bilibili.com/",
-      real_src:'https://www.bilibili.com/',
+      input_src:"https://cares-ray.github.io/Moll-Ray/",
+      real_src:'https://cares-ray.github.io/Moll-Ray/',
       no_http:false,
-      href_stack:['https://www.bilibili.com/',],
+      href_stack:['https://cares-ray.github.io/Moll-Ray/',],
       href_stack_pointer:0,
     }
   },

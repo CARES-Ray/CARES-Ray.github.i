@@ -62,7 +62,7 @@ export default {
       return this.$store.state.filemap
     },
     header(){
-      let res = "[xuanli@bilibili ~ ]# "
+      let res = "[谦*_@bilibili ~ ]# "
       for (let dir of this.path_stack) {
         res += (dir + '/')
       }
